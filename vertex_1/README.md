@@ -62,3 +62,4 @@ The AI model will process the startup data and investor preferences to generate 
 
 ### Conclusion
 This AI model will help investors efficiently identify and evaluate startups that align with their investment criteria, streamlining the decision-making process and enhancing investment outcomes.
+Web App Link:[GitHub](https://huggingface.co/spaces/shahir123/vertext_1)

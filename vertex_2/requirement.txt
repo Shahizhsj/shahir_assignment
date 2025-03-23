@@ -1,0 +1,6 @@
+gradio
+pandas
+langchain-google-genai
+langchain-community
+google-genai
+google-generativeai

@@ -6,12 +6,12 @@ Each problem in the assignment has been provided with an interface using Gradio,
 ### Problem 1: Interface
 The first problem's assignment files are stored in `vertext_1`. An interface has been created using Gradio and deployed on Hugging Face Spaces. You can check it out using the link below:
 
-[Hugging Face Spaces - Problem 1 Interface](#)
+[Hugging Face Spaces - Problem 1 Interface](https://huggingface.co/spaces/shahir123/vertext_1)
 
 ### Problem 2: Interface
 The second problem's assignment files are stored in `vertext_2`. Similarly, an interface has been created using Gradio and deployed on Hugging Face Spaces. You can check it out using the link below:
 
-[Hugging Face Spaces - Problem 2 Interface](#)
+[Hugging Face Spaces - Problem 2 Interface](https://huggingface.co/spaces/shahir123/vertex_2)
 
 ## Conclusion
 Feel free to explore the interfaces for each problem. If there are any mistakes or issues, please let me know.
